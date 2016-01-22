@@ -1,12 +1,15 @@
 # KnowledgePool
 
-## Hello django
+
+## First Edition
+
+### Hello django
 
 django是一个高级的python web框架，鼓励开发人员快速开发出干净务实的设计。由于是由有经验的web开发者创建的，所以它避免了很多web开发的麻烦。本文是佳楠同学写的一篇入门教程。
 
 http://dannylee1991.github.io/2016/01/12/HelloDjango!/
 
-## 大家来试试Scala
+### 大家来试试Scala
 
 黄老师关于Scala的深情告白。
 
