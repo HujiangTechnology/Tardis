@@ -2,8 +2,8 @@
 
 ## First Edition
 
-### KotlinThree
+### [KotlinThree](https://github.com/KotlinThree)
 
 KotlinThree是沪江Kotlin的学习先锋队！
 
-https://github.com/KotlinThree
+
