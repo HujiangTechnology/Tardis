@@ -69,3 +69,6 @@ Kotlin 是一个基于 JVM 的新的编程语言，有很多省时省力的特�
 
 官方荐文，Kotlin时代的来临
 
+### [https://realm.io/news/oredev-jake-wharton-kotlin-advancing-android-dev/](https://realm.io/news/oredev-jake-wharton-kotlin-advancing-android-dev/)  (推荐人：何梁伟)
+
+大神Jake Wharton讲解怎么使用kotlin来提升安卓开发
