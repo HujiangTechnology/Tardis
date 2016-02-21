@@ -18,3 +18,6 @@ django是一个高级的python web框架，鼓励开发人员快速开发出干�
 
 手动回收Bitmap的教训
 
+
+###[安卓事件传递机制分析](http://ohmerhe.com/2016/02/01/android_event_pass_parsing/) (作者：何梁伟)
+这片文章讲解的事件传递的起源从dispatchTouchEvent(event)开始，根据事件的处理流程逐渐展开，直至事件被可预料的处理掉结束
