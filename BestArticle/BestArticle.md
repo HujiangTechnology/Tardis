@@ -2,19 +2,6 @@
 
 ## First Edition
 
-###[阅读Android源码的一些姿势](http://zhuanlan.zhihu.com/kaede/20564614)(推荐人：康可)
-日常开发中怎么阅读源码
-
-###[Android开发技术周报特刊之React Native](http://www.androidweekly.cn/android-dev-special-weekly-react-native/ )（推荐人：小刀）
-关于ReactNative学习的干货汇总
-
-###[TALKINGDATA灵动分析技术揭秘](http://blog.talkingdata.net/?p=3778)(推荐人：宜生)
-Talkingdata的打点原理
-
-###[Using Project Kotlin for Android](https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/edit?hl=en&forcehl=1# )(推荐人：宜生)
-JakeWharton对Kotlin在Android中的应用的总结
-
-
 ### [你的架构是如何一步步腐化的？](http://www.21cto.com/article/75)
 
 构建过慢，完成新功能让你痛不欲生，团队成员无法很快融入，文档无法及时更新等等。本文介绍了架构的设计是怎么逐渐随着项目迭代而老化，并提出处理方案。
@@ -105,3 +92,15 @@ Kotlin 是一个基于 JVM 的新的编程语言，有很多省时省力的特�
 
 ###[电商网站的初期技术选型](http://www.infoq.com/cn/articles/e-commerce-web-tech-stack) (推荐人：银银)
 完全从0到1建设一个电商网站，技术选型和注意事项有哪些？
+
+###[阅读Android源码的一些姿势](http://zhuanlan.zhihu.com/kaede/20564614)(推荐人：康可)
+日常开发中怎么阅读源码
+
+###[Android开发技术周报特刊之React Native](http://www.androidweekly.cn/android-dev-special-weekly-react-native/ )（推荐人：小刀）
+关于ReactNative学习的干货汇总
+
+###[TALKINGDATA灵动分析技术揭秘](http://blog.talkingdata.net/?p=3778)(推荐人：宜生)
+Talkingdata的打点原理
+
+###[Using Project Kotlin for Android](https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/edit?hl=en&forcehl=1# )(推荐人：宜生)
+JakeWharton对Kotlin在Android中的应用的总结
