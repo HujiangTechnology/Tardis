@@ -2,6 +2,10 @@
 
 ## First Edition
 
+
+###[Google Play services](http://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-7-8-87-release/google-play-services-7-8-87-2077814-440-android-apk-download/)(推荐人：小明)
+google play service 中国服务，支持国内的Android wear
+
 ### [Quip](https://hjdev.quip.com/chat/hjandroid-liao-tian)
 
 Quip：能让你开一个窗口就把QQ、Word和电邮的事儿都干了
