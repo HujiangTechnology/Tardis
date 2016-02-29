@@ -29,3 +29,7 @@ django是一个高级的python web框架，鼓励开发人员快速开发出干�
 ###[WeakHandler是怎么解决Handler的内存问题的](http://ohmerhe.com/2016/01/18/how-to-work-weakhandler/)(作者：梁伟)
 
 ###[kotlin类与对象 —— 类（一）](http://ohmerhe.com/2016/01/02/object-class-class/)(作者：梁伟)  
+
+###[优化gradle编译速度实践](http://ohmerhe.com/2016/02/26/gradle_speed_up/)(作者：梁伟)
+
+随着项目规模越来越大，编译速度越来越慢，每次修改代码以后的编译都是痛苦的等待。对于兄弟们来说，gradle已经变成了一个潜藏的‘岁月神偷’。So，现在是时候我们来优化一下gradle的编译速度。

@@ -104,3 +104,18 @@ Talkingdata的打点原理
 
 ###[Using Project Kotlin for Android](https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/edit?hl=en&forcehl=1# )(推荐人：宜生)
 JakeWharton对Kotlin在Android中的应用的总结
+
+###[Android开发必备知识：为什么说Kotlin值得一试](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=404087761&idx=1&sn=d80625ee52f860a7a2ed4c238d2151b6&scene=1&srcid=0225QQBEkQDEgwdiU2NLUcIN&key=710a5d99946419d9ccd16b7a8f76c1e361a550e2913b9faaa03629fc47c8101e359ddd6f56b49ba5fb492397af237e23&ascene=0&uin=MjI1NTE5NDA2Mw%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build\(14F1021\)&version=11020201&pass_ticket=QVvjp5rfSGeK1B2IUW9ztD%2FG3DNqK1OP1Mf132T8IbEt5mmj8dgTKQegO6igLQl%2B)(推荐人：康可)
+一句话，Kotlin 是用来提升效率的，如果在你的场景中它做不到，甚至成了拖累，请放开它。
+
+###[Facebook如何采集其Android应用性能数据](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=401955288&idx=1&sn=cd6e26f8ccecdde318f873b681e33526&scene=1&srcid=0221Ph4me1lUtzTlCrWZr9Qd&key=710a5d99946419d96f6bad88b3d9b42148af956828a1ab147360005f1d8ce222141b3075441ad6914e4e03aae1c61e08&ascene=0&uin=MjI1NTE5NDA2Mw%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build\(14F1021\)&version=11020201&pass_ticket=QVvjp5rfSGeK1B2IUW9ztD%2FG3DNqK1OP1Mf132T8IbEt5mmj8dgTKQegO6igLQl%2B)(推荐人：创龙)
+数据采集一般都离不开埋点插桩，本文介绍了Facebook的插桩方法，他们在考察了Android内建的Debug以及另一些方法后，选择了字节码重写技术，避免了手工插桩的劳动，且性能损失降到最低。
+###[在Android中使用反射到底有多慢？](http://blog.nimbledroid.com/2016/02/23/slow-Android-reflection-zh.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)(推荐人：佳楠)
+反射（Reflection）在Java和安卓开发过程中非常有用，但是反射的使用往往是APP严重性能问题的根本原因。本文通过分析几个真实的案例来帮助我们更直观的理解这个问题。
+
+###[那些开发者需要了解的设计基本原则](https://m.flipboard.cn/share?url=http%3A%2F%2Fwww.woshipm.com%2Fpd%2F288577.html&social=wechat&deviceType=iphone&udid=1a7e888b83c9d71f07661d96cbcefc6d4cee48ae&userid=9485132&item_id=flipboard-zqeL0MIJQdyQ4ZDB8TeZUQ%3Aa%3A184483403-1456458776&section_id=flipboard%2Fcurator%252Fmagazine%252FcqZO7hBRSyar44MVxPeEGw%253Am%253A184483403&from=groupmessage&isappinstalled=1)(推荐人：银银)
+干净的 UI 和干净的代码一样。 它是组织好的、一致的而且进无止境。一个设计师的好言劝告，墙裂推荐认真阅读
+###[Android Support Library 23.2](http://android-developers.blogspot.jp/2016/02/android-support-library-232.html)(推荐人：宜生)
+Design Lib又更新了，这次更新的不少，鼓掌~~~
+
+

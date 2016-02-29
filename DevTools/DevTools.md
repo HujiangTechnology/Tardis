@@ -30,3 +30,10 @@ Android Studio 迭代周期快、不断改进，这是它的一大优点。每�
 
 ###[Google Play services](http://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-7-8-87-release/google-play-services-7-8-87-2077814-440-android-apk-download/)(推荐人：小明)
 google play service 中国服务，支持国内的Android wear
+
+###[谷歌启动容错Git管理系统项目：Git Ketch](http://m.xianguo.com/blog/9MXvl)(推荐人：小明)
+Git Ketch，一个多主机Git管理系统，能够通过访问多个Git服务器来复制信息，以确保复制信息的复原性和可扩展性
+###[JavaCPP 技术使用经验总结](http://www.ibm.com/developerworks/cn/java/j-lo-cpp/index.html)(推荐人：小刀)
+采用 JavaCPP 方式在编程上较 JNI 方式简单很多，另外，效率也比 JNI 高，所以建议多采用 JavaCPP 技术。当然，如果是开源项目，也可以通过 JavaCPP presets 子项目来分享自己做的库文件，让其他人快速使用。
+###[联想谷歌现身巴塞：再秀Project Tango设备应用](http://www.anzhuo.cn/news/p_10444)(推荐人：小刀)
+Project Tango设备,android开发ar应用利器
