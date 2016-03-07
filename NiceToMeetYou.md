@@ -24,3 +24,8 @@
 ## 何梁伟
 
 - 博客: ohmerhe.com
+
+## 吉小龙
+- blog:[http://blog.sina.com.cn/u/2017385987](http://blog.sina.com.cn/u/2017385987)
+- email:<a href=mailto:micro4code@163.com>micro4code@163.com</a>
+
