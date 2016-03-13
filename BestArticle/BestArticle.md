@@ -118,4 +118,12 @@ JakeWharton对Kotlin在Android中的应用的总结
 ###[Android Support Library 23.2](http://android-developers.blogspot.jp/2016/02/android-support-library-232.html)(推荐人：宜生)
 Design Lib又更新了，这次更新的不少，鼓掌~~~
 
+###[Android 开发的那些坑和小技巧](https://mp.weixin.qq.com/s?__biz=MzI3MTEzMDI2MA==&mid=405597000&idx=1&sn=5c86631ff95644fdbefa36c4f57ee71d&scene=1&srcid=03010lwFKKs4GuGWyDPZxAvL&key=710a5d99946419d91ed1eea3be59088184f016b794b9c83c7f70d1f63ff0f375ea90497700ca962c987af51fa4cb68e6&ascene=0&uin=MjI1NTE5NDA2Mw%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build\(14F1021\)&version=11020201&pass_ticket=3OhJ6Q6jZNaO%2BrWN1brtamVLFosGdEWQnoDQYiw2Kj09Xd0QE1EDLJX2aj4vyhJq)(推荐人：璋伟)
+###[Android APK终极瘦身21招](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=402380504&idx=1&sn=7013f0842867a21555adcf445c7c03ee&scene=1&srcid=0302DAWQ0vmV7ZGLuIEspz3a&key=710a5d99946419d953f7ab50fbe10d553fe0056e641560956a071c0399784f002970d8240a67c3044ffd60e747b17498&ascene=0&uin=MjI1NTE5NDA2Mw%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build\(14F1021\)&version=11020201&pass_ticket=3OhJ6Q6jZNaO%2BrWN1brtamVLFosGdEWQnoDQYiw2Kj09Xd0QE1EDLJX2aj4vyhJq)(推荐人：晓杰)
+Android安装包瘦身指南
+###[更优雅的 Android 发布自动版本号方案](http://www.race604.com/android-auto-version/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)(推荐人：康可)
+如果您的项目是用 Git 管理的，并且恰巧又是使用 Gradle 编译（应该绝大部分都是这样的了吧？），本文试图找到一种更加优雅的自动版本管理方法。
+###[聊聊并发——生产者消费者模式](http://www.infoq.com/cn/articles/producers-and-consumers-mode/)(推荐人：佳楠)
+在并发编程中使用生产者和消费者模式能够解决绝大多数并发问题。该模式通过平衡生产线程和消费线程的工作能力来提高程序的整体处理数据的速度。
+
 

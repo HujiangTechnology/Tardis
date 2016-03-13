@@ -37,3 +37,6 @@ Git Ketch，一个多主机Git管理系统，能够通过访问多个Git服务�
 采用 JavaCPP 方式在编程上较 JNI 方式简单很多，另外，效率也比 JNI 高，所以建议多采用 JavaCPP 技术。当然，如果是开源项目，也可以通过 JavaCPP presets 子项目来分享自己做的库文件，让其他人快速使用。
 ###[联想谷歌现身巴塞：再秀Project Tango设备应用](http://www.anzhuo.cn/news/p_10444)(推荐人：小刀)
 Project Tango设备,android开发ar应用利器
+
+###[ClassyShark——apk分析利器](https://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402526638&idx=1&sn=bdd13a3cb722e72f67d4dcc1af0f620d&scene=1&srcid=0302hfrFeK6egppOSAc3YX1S&key=710a5d99946419d9b6b1065588a39c2f4cf1c11b6c978e30fca915cfa5a47278ed9697f4438c150e481795c543d2da28&ascene=0&uin=MjI1NTE5NDA2Mw%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build\(14F1021\)&version=11020201&pass_ticket=3OhJ6Q6jZNaO%2BrWN1brtamVLFosGdEWQnoDQYiw2Kj09Xd0QE1EDLJX2aj4vyhJq)(推荐人：长剑)
+ClassyShark是Google发布的一款可以查看Android可执行文件的浏览工具
