@@ -126,4 +126,26 @@ Android安装包瘦身指南
 ###[聊聊并发——生产者消费者模式](http://www.infoq.com/cn/articles/producers-and-consumers-mode/)(推荐人：佳楠)
 在并发编程中使用生产者和消费者模式能够解决绝大多数并发问题。该模式通过平衡生产线程和消费线程的工作能力来提高程序的整体处理数据的速度。
 
+###[『Android安全』版优秀和精华帖分类索引](http://www.kanxue.com/bbs/showthread.php?t=179524&highlight=Android+%E5%8A%A0%E5%9B%BA+%E5%9B%BA&plg_auth=1&plg_nld=1&plg_dev=1&plg_uin=1&plg_usr=1&plg_vkey=1&plg_nld=1&from=timeline&isappinstalled=0)(推荐人：何晓杰)
+Android安全相关文章索引，看雪论坛，Android安全板块，干货多多，强烈建议关注！！！
 
+###[看 Twitter 如何利用 Android 6.0 中的“瞌睡模式”来改进通知性能](http://www.chinagdg.com/thread-32016-1-1.html#rd?sukey=a76cdd086edb4fce23a29a190aa2dac11f7d878e7b6bb665d967f4aed53b8a7f9e8fcc84d0de1e9542eb900ed5688b23)(推荐人：徐宜生)
+Google Cloud Messaging (GCM)与 Android 6.0 Marshmallow 中的瞌睡模式（Doze）配合使用，为用户带来性能和可用性改进。二者配合使用的情况下，普通优先级的消息允许设备保持瞌睡模式，而高优先级的消息则会使设备退出瞌睡模式。
+
+###[MultiDex solution for 64k limit in Dalvik.](http://frogermcs.github.io/MultiDex-solution-for-64k-limit-in-Dalvik/)(推荐人：刘小明)
+顺便还处理了Class Not Defined的问题
+
+###[影响编程效率的15个障碍](http://www.codeceo.com/article/15-barriers-to-better-code.html)(推荐人：刘小明)
+现实世界中的15个编程障碍。
+
+###[适配 Android N 需要注意什么](https://mp.weixin.qq.com/s?__biz=MzAxNjI3MDkzOQ==&mid=405513160&idx=1&sn=0f040112b7e169c85e616d2a3d685083&scene=1&srcid=0310X820pCWvYknd9f7hDhyV&key=710a5d99946419d98e423d517a8f6dd66afbbcc7d51a7b62eeace31371a6e2d008d69785f0f850e78348bb17dbc91a8f&ascene=0&uin=MjI1NTE5NDA2Mw%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build(14F1021)&version=11020201&pass_ticket=5X8wSUSne1jS%2Ffd9TW0NGYYIs4f%2F5Iem6fzrObBvkVnJyshtyXWO0acPWP%2BNV9Dc)(推荐人：梁伟)
+Android N 这次的新特性包括多窗口的支持、通知栏支持直接回复消息、对部分广播的后台限制、网络数据节省开关等，并不多，也有很多翻译文章已经介绍。这里主要分享对 Android N 的适配大家可能要注意什么。
+
+###[饿了么移动APP的架构演进](http://www.jianshu.com/p/2141fb0dc62c?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)(推荐人：康可)
+MVC->Module Decoupled->HyBird->React-Native & Hot Patch
+
+###[Android JSBridge的原理与实现](http://android.jobbole.com/82507/)(推荐人：徐宜生)
+
+###[How We Build Code at Netflix](http://techblog.netflix.com/2016/03/how-we-build-code-at-netflix.html)(推荐人：HD)
+
+###[逾千万使用 https 的站点受到新型解密攻击的威胁](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=402377147&idx=4&sn=850019b96bd8e78149f8f89683fc0df0&scene=1&srcid=0307aeV1AaPgVFiOjUfVK0Fv&key=710a5d99946419d9857346ad2987b1abea36c3b27ed078a72f4de49c2692f38f02baa7fcd22cece27aae9c012c5547e0&ascene=0&uin=MjI1NTE5NDA2Mw%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build(14F1021)&version=11020201&pass_ticket=5X8wSUSne1jS%2Ffd9TW0NGYYIs4f%2F5Iem6fzrObBvkVnJyshtyXWO0acPWP%2BNV9Dc)(推荐人：刘小明)
