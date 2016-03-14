@@ -21,3 +21,9 @@ A better WeChat client on Mac OS X and Linux.(同一作者下，WeChatLuckyMoney
 一个实现『划词翻译』功能的 Android 应用 
 ###[FBReaderJ](https://github.com/geometer/FBReaderJ)(推荐人：梁伟)
 同上
+
+###[TranslateApp（咕咚翻译）](https://github.com/yinchuandong/SelectableTextView)(推荐人：华长剑)
+自由选择文字的textview, 继承textview，实现弹出菜单，可自定义弹出菜单，并且弹出菜单跟随光标
+
+###[AlphaGoReplication](https://github.com/Rochester-NRT/AlphaGo)(推荐人：徐宜生)
+A replication of DeepMind's 2016 Nature publication, "Mastering the game of Go with deep neural networks and tree search," details of which can be found on their website.
