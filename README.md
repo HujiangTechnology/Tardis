@@ -4,15 +4,16 @@ Tardis是英剧《Doctor Who》中的超时空飞行器（时间和空间的相�
 
 ## TODO
 
-我们利用Tardis来沉淀沪江的技术、提升团队的技术氛围、总结开发经验。
+我们利用Tardis来沉淀技术、提升团队的技术氛围、总结开发经验。
 
-目前，Tardis包含以下几个模块：
+目前，Tardis包含以下板块：
 
-- [AwesomeSource:此模块收集了沪江原创的开源项目](https://github.com/HujiangTechnology/Tardis/blob/master/AwesomeSource/AwesomeSource.md)
-- [KnowledgePool:此模块收集了沪江原创的开发技术博客，作为技术沉淀](https://github.com/HujiangTechnology/Tardis/blob/master/KnowledgePool/KnowledgePool.md)
-- [BestArticle:此模块收集第三方好的开发技术博客、文章](https://github.com/HujiangTechnology/Tardis/blob/master/BestArticle/BestArticle.md)
-- [DevTools:此模块收集了平时开发中用到的一些比较新的、好的开发工具](https://github.com/HujiangTechnology/Tardis/blob/master/DevTools/DevTools.md)
-- [FantasticLibs:此模块收集沪江应用所用到的、修改的第三方库，以及一些比较好的库项目](https://github.com/HujiangTechnology/Tardis/blob/master/FantasticLibs/FantasticLibs.md)
+* ``AwesomeSource`` 原创开源项目
+* ``KnowledgePool`` 原创技术博客
+* ``BestArticle``   精选第三方技术文章
+* ``DevTools``      新颖或者好用的开发工具集
+* ``FantasticLibs`` 精选的第三方开源库
+* ``HotNews``       热点新闻
 
 ## 讨论
 
