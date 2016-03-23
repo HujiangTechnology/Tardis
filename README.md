@@ -6,7 +6,7 @@ Tardis是英剧《Doctor Who》中的超时空飞行器（时间和空间的相�
 
 我们利用Tardis来沉淀技术、提升团队的技术氛围、总结开发经验。
 
-目前，Tardis包含以下板块：
+目前，Tardis主要以技术周刊的方式展现，周刊内容包含以下分类：
 
 * ``AwesomeSource`` 原创开源项目
 * ``KnowledgePool`` 原创技术博客
