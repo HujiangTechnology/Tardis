@@ -1,6 +1,6 @@
 ---
 title: Android技术周刊第7期
-date: 2016-03-14 06:00:00
+date: 2016-03-14
 tags: Android 周刊
 ---
 Android say：我曾经的好兄弟Eclipse这次好像换了一辆车（che）！！
