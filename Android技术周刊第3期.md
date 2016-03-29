@@ -1,11 +1,10 @@
 ---
 title: Android技术周刊第3期
 date: 2016-02-15 06:00:00
-tags:Android 周刊
+tags: Android 周刊
 ---
 2016，新的一年，新的开始。while（year == 2016）{coding in 2016}
 
-## Android 技术周刊第3期
 
 ### KnowledgePool
 

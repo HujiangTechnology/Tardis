@@ -1,11 +1,9 @@
 ---
 title: Android技术周刊第4期
 date: 2016-02-22 06:00:00
-tags:Android 周刊
+tags: Android 周刊
 ---
 本期重点推荐BestArticle中：大神JakeWharton对Kotlin在Android平台上应用的总结
-
-## Android 技术周刊第4期
 
 ### KnowledgePool
 

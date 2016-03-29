@@ -5,8 +5,6 @@ tags: Android 周刊
 ---
 程序员，一种生物，能把咖啡和汉堡转化成软件的生物！
 
-## Android 技术周刊第8期
-
 ### BestArticle
 * [Why I don't want to use Kotlin for Android Development yet](http://artemzin.com/blog/why-i-dont-want-to-use-kotlin-for-android-development-yet/?utm_source=Android+Weekly&utm_campaign=1172c35594-Android_Weekly_196&utm_medium=email&utm_term=0_4eb677ad19-1172c35594-337979953) Even though Kotlin is better than Java in many points it still has significant (in my opinion) drawbacks. 
 * [JVM内幕：Java虚拟机详解](https://mp.weixin.qq.com/s?__biz=MzA4NDM2MjAwNw==&mid=401750457&idx=1&sn=e59785deb47c1e2fc6845bbfad6346b5&scene=1&srcid=0314MCxuZ1lTMKgZRVmVT6aM&key=710a5d99946419d9453ad7f332e226220c10ab61cd89b34235281c135cd38750ed2857d5d3ec1c541e88a29067fec03e&ascene=0&uin=MjM2NDM0ODgyMA%3D%3D&devicetype=iMac+Macmini6%2C1+OSX+OSX+10.11.3+build(15D21)&version=11020201&pass_ticket=jRp8LHxC78MOLzlKpp%2BpiGVDSWIoGjpNWMycR6A8DPW2Y0ISNUmescJ7sXbup4FV) 这篇文章解释了Java 虚拟机（JVM）的内部架构。下图显示了遵守 Java SE 7 规范的典型的 JVM 核心内部组件。

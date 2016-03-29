@@ -1,11 +1,9 @@
 ---
 title: Android技术周刊第2期
 date: 2016-01-25 06:00:00
-tags:Android 周刊
+tags: Android 周刊
 ---
 ILOVEYOU, 这个字是程序员内心底里对妳的宣称！！
-
-## Android 技术周刊第2期
 
 ### AwesomeSource
 * [KotlinThree](https://github.com/KotlinThree) 一群热血的互联网江湖人发起的Organization：KotlinThree
