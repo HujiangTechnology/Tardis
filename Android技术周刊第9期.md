@@ -1,6 +1,6 @@
 ---
 title: Android技术周刊第9期
-date: 2016-03-28 06:00:00
+date: 2016-03-28
 tags: Android 周刊
 ---
 本期重点推荐[Why Java? Tales from a Python Convert](http://sookocheff.com/post/java/why-java/#).   他说：别一直说Java太烦，你认真地了解过今日的Java吗？
