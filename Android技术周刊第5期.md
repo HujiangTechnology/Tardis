@@ -1,6 +1,6 @@
 ---
 title: Android技术周刊第5期
-date: 2016-02-29 06:00:00
+date: 2016-02-29
 tags: Android 周刊
 ---
 Linux问他的父亲：你曾经是不是说了一句很牛的话——"talk is cheap,show me the code"? 可是，网络上有那么多好文章，难道都是cheap？
