@@ -11,7 +11,7 @@ Android say：我曾经的好兄弟Eclipse这次好像换了一辆车（che）�
 * [人工智能五子棋实现原理](http://dannylee1991.github.io/2016/03/13/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BA%94%E5%AD%90%E6%A3%8B%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86/) 主要是展示一个五子棋AI，后附项目地址，基于python实现。
 
 ### BestArticle
-* [适配 Android N 需要注意什么](https://mp.weixin.qq.com/s?__biz=MzAxNjI3MDkzOQ==&mid=405513160&idx=1&sn=0f040112b7e169c85e616d2a3d685083&scene=1&srcid=0310X820pCWvYknd9f7hDhyV&key=710a5d99946419d98e423d517a8f6dd66afbbcc7d51a7b62eeace31371a6e2d008d69785f0f850e78348bb17dbc91a8f&ascene=0&uin=MjI1NTE5NDA2Mw%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build(14F1021)&version=11020201&pass_ticket=5X8wSUSne1jS%2Ffd9TW0NGYYIs4f%2F5Iem6fzrObBvkVnJyshtyXWO0acPWP%2BNV9Dc) Android N 这次的新特性包括多窗口的支持、通知栏支持直接回复消息、对部分广播的后台限制、网络数据节省开关等，并不多，也有很多翻译文章已经介绍。这里主要分享对 Android N 的适配大家可能要注意什么。
+* [适配 Android N 需要注意什么](https://mp.weixin.qq.com/s?__biz=MzAxNjI3MDkzOQ==&mid=405513160&idx=1&sn=0f040112b7e169c85e616d2a3d685083&scene=1&srcid=0310X820pCWvYknd9f7hDhyV&key=710a5d99946419d98e423d517a8f6dd66afbbcc7d51a7b62eeace31371a6e2d008d69785f0f850e78348bb17dbc91a8f&ascene=0&uin=MjI1NTE5NDA2Mw%3D%3D) Android N 这次的新特性包括多窗口的支持、通知栏支持直接回复消息、对部分广播的后台限制、网络数据节省开关等，并不多，也有很多翻译文章已经介绍。这里主要分享对 Android N 的适配大家可能要注意什么。
 
 * [饿了么移动APP的架构演进](http://www.jianshu.com/p/2141fb0dc62c?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 笔者说：时代演进，技术也随之发展。到今天，APP已然成为绝大多数互联网企业用来获取用户的核心渠道。与此同时，伴随着业务量的增长，愈来愈大、愈来愈多的APP也在不断地、持续地挑战着每一个移动端研发人员的知识深度，而我们的移动端技术人员也在这个不断接受挑战的过程中，成就了今天的移动互联网时代。饿了么移动APP就是这样一个挑战，多用户量、多业务量，在接受着更多更挑剔用户的同时，默默地、不断地演进着移动端的架构
 
@@ -34,4 +34,4 @@ Android say：我曾经的好兄弟Eclipse这次好像换了一辆车（che）�
 
 ### HotNews
 
-* [逾千万使用 https 的站点受到新型解密攻击的威胁](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=402377147&idx=4&sn=850019b96bd8e78149f8f89683fc0df0&scene=1&srcid=0307aeV1AaPgVFiOjUfVK0Fv&key=710a5d99946419d9857346ad2987b1abea36c3b27ed078a72f4de49c2692f38f02baa7fcd22cece27aae9c012c5547e0&ascene=0&uin=MjI1NTE5NDA2Mw%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build(14F1021)&version=11020201&pass_ticket=5X8wSUSne1jS%2Ffd9TW0NGYYIs4f%2F5Iem6fzrObBvkVnJyshtyXWO0acPWP%2BNV9Dc) 低成本的 DROWN 攻击能在数小时内完成数据解密，该攻击对采用了 TLS 的邮件服务器也同样奏效
+* [逾千万使用 https 的站点受到新型解密攻击的威胁](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=402377147&idx=4&sn=850019b96bd8e78149f8f89683fc0df0&scene=1&srcid=0307aeV1AaPgVFiOjUfVK0Fv&key=710a5d99946419d9857346ad2987b1abea36c3b27ed078a72f4de49c2692f38f02baa7fcd22cece27aae9c012c5547e0&ascene=0&uin=MjI1NTE5NDA2Mw%3D%3D) 低成本的 DROWN 攻击能在数小时内完成数据解密，该攻击对采用了 TLS 的邮件服务器也同样奏效

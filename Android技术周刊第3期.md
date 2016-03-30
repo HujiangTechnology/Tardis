@@ -16,9 +16,9 @@ tags: Android 周刊
 * [https://realm.io/news/oredev-jake-wharton-kotlin-advancing-android-dev/](https://realm.io/news/oredev-jake-wharton-kotlin-advancing-android-dev/)  大神Jake Wharton讲解怎么使用kotlin来提升安卓开发
 
 
-* [Java 开发必会的 Linux 命令](https://mp.weixin.qq.com/s?__biz=MzAxMzQ3NzQ3Nw==&mid=405664533&idx=3&sn=0a093dc73285dc01b7dc74bef5bb614a&scene=1&srcid=0126onMA2n98ky9JVdTpFLgY&key=710a5d99946419d9de40d10bf274bb86b987336b84be91abb9823d369bfeb757523f165c893c9a92aa7fdcfbb1aac4be&ascene=0&uin=MjI1NTE5NDA2Mw%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build\(14F1021\)&version=11020201&pass_ticket=n3SkcbGuld4qWyE84%2BT38qwJ9QheYrY5dWqziaIptNgPqgMcezywZQFosROcMdjh)  想提高工作效率，一定要会！
+* [Java 开发必会的 Linux 命令](https://mp.weixin.qq.com/s?__biz=MzAxMzQ3NzQ3Nw==&mid=405664533&idx=3&sn=0a093dc73285dc01b7dc74bef5bb614a&scene=1&srcid=0126onMA2n98ky9JVdTpFLgY&key=710a5d99946419d9de40d10bf274bb86b987336b84be91abb9823d369bfeb757523f165c893c9a92aa7fdcfbb1aac4be&ascene=0&uin=MjI1NTE5NDA2Mw%3D%3D)  想提高工作效率，一定要会！
 
-* [Java程序员应当知道的10个面向对象设计原则!](https://mp.weixin.qq.com/s?__biz=MzA5MDI1NDEwMw==&mid=401758032&idx=2&sn=98877730bba98855833d0249f53f498d&scene=1&srcid=012632iWvUIu2wtcsLRcZ0bm&key=710a5d99946419d923e2f0bd6106da6e49ef16c3ff0c1d12effc82c9715b7227aae3d363a42f8aa8df6c498858a3c2a5&ascene=0&uin=MjI1NTE5NDA2Mw%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build\(14F1021\)&version=11020201&pass_ticket=n3SkcbGuld4qWyE84%2BT38qwJ9QheYrY5dWqziaIptNgPqgMcezywZQFosROcMdjh)  面向对象设计原则是OOPS编程的核心， 但大多数Java程序员热心于设计模式，而没有把足够多的注意力放在学习面向对象的分析和设计上面。
+* [Java程序员应当知道的10个面向对象设计原则!](https://mp.weixin.qq.com/s?__biz=MzA5MDI1NDEwMw==&mid=401758032&idx=2&sn=98877730bba98855833d0249f53f498d&scene=1&srcid=012632iWvUIu2wtcsLRcZ0bm&key=710a5d99946419d923e2f0bd6106da6e49ef16c3ff0c1d12effc82c9715b7227aae3d363a42f8aa8df6c498858a3c2a5&ascene=0&uin=MjI1NTE5NDA2Mw%3D%3D)  面向对象设计原则是OOPS编程的核心， 但大多数Java程序员热心于设计模式，而没有把足够多的注意力放在学习面向对象的分析和设计上面。
 
 ### DevTools
 * [Google Play services](http://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-7-8-87-release/google-play-services-7-8-87-2077814-440-android-apk-download/) Google Play service 中国服务，支持国内的Android Wear

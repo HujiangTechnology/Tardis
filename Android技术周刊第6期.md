@@ -25,7 +25,7 @@ tags: Android 周刊
 
 
 ### DevTools
-* [网络请求–Retrofit2使用方法](https://mp.weixin.qq.com/s?__biz=MzA4NDM2MjAwNw==&mid=401697701&idx=1&sn=448b8606b016bfd2fa6a12bb963548b2&scene=1&srcid=0309YbdqCFlu7YgefevjB35z&key=710a5d99946419d90af29c75988e07a9474f3955d4668c6cc1f36b4603c090bb57bf4fe8a7cfefaf2711988524e98545&ascene=0&uin=MjI1NTE5NDA2Mw%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build(14F1021)&version=11020201&pass_ticket=5X8wSUSne1jS%2Ffd9TW0NGYYIs4f%2F5Iem6fzrObBvkVnJyshtyXWO0acPWP%2BNV9Dc) Retrofit是Square开发的网络请求库, 简化了网络请求的使用, 这个库太知名了, 好处我就不多说了. 让我们看看如何使用吧? (注: Retrofit2的beta3版本)
+* [网络请求–Retrofit2使用方法](https://mp.weixin.qq.com/s?__biz=MzA4NDM2MjAwNw==&mid=401697701&idx=1&sn=448b8606b016bfd2fa6a12bb963548b2&scene=1&srcid=0309YbdqCFlu7YgefevjB35z&key=710a5d99946419d90af29c75988e07a9474f3955d4668c6cc1f36b4603c090bb57bf4fe8a7cfefaf2711988524e98545&ascene=0&uin=MjI1NTE5NDA2Mw%3D%3D) Retrofit是Square开发的网络请求库, 简化了网络请求的使用, 这个库太知名了, 好处我就不多说了. 让我们看看如何使用吧? (注: Retrofit2的beta3版本)
 
 ### FantasticLibs
 
