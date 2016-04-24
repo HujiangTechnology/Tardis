@@ -2,9 +2,11 @@
 title: Android技术周刊第6期
 date: 2016-03-07
 tags: Android 周刊
+author: YYDroid
 ---
 本期重点推荐BestArticle中：影响编程效率的15个障碍；我相信，你看完之后，你一定会感同身受！
 
+<!-- more -->
 
 ### KnowledgePool
 

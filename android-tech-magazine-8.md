@@ -2,8 +2,11 @@
 title: Android技术周刊第8期
 date: 2016-03-22
 tags: Android 周刊
+author: YYDroid
 ---
 程序员，一种生物，能把咖啡和汉堡转化成软件的生物！
+
+<!-- more -->
 
 ### BestArticle
 * [Why I don't want to use Kotlin for Android Development yet](http://artemzin.com/blog/why-i-dont-want-to-use-kotlin-for-android-development-yet/?utm_source=Android+Weekly&utm_campaign=1172c35594-Android_Weekly_196&utm_medium=email&utm_term=0_4eb677ad19-1172c35594-337979953) Even though Kotlin is better than Java in many points it still has significant (in my opinion) drawbacks. 

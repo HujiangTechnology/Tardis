@@ -2,8 +2,11 @@
 title: Android技术周刊第9期
 date: 2016-03-28
 tags: Android 周刊
+author: YYDroid
 ---
 本期重点推荐[Why Java? Tales from a Python Convert](http://sookocheff.com/post/java/why-java/#).   他说：别一直说Java太烦，你认真地了解过今日的Java吗？
+
+<!-- more -->
 
 ### BestArticle
 * [Android 6.0 对于权限和标识符的更改](https://mp.weixin.qq.com/s?__biz=MzAwODY4OTk2Mg==&mid=403155342&idx=1&sn=ded3478819cbb3d0ae10b9560e48542e&scene=0&key=710a5d99946419d903380083b076cca90a55d8feb7db4721db6abba41e349d0d5899deb59d2e1221553a2cf5a942d316&ascene=0&uin=MTkyODkzMzg4MA%3D%3D) 在 Marshmallow 中，权限请求已从安装时改到运行时。 这是 SDK 23+ 的一项强制性改动，意味着它会影响所有以 Android 6.0 作为目标平台的开发者和应用。无论如何，您的应用都需要更新，因此，您的挑战在于审慎地进行更新。

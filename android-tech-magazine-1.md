@@ -2,8 +2,11 @@
 title: Android技术周刊第1期
 date: 2016-01-18
 tags: Android 周刊
+author: YYDroid
 ---
 本技术周刊旨在汇总每周的技术知识及行业动态，以Android为主，但不限Android，内容分为6大板块：AwesomeSource、KnowledgePool、BestArticle、DevTools、FantasticLibs、HotNews. 希望有更多的伙伴们参与
+
+<!-- more -->
 
 ### AwesomeSource
 * [RestVolley](https://github.com/HujiangTechnology/RestVolley) A http request engine based on Volley and OkHttp, giving up Apache HttpClient request. supports image loading, restful api requesting, and file downloading.
