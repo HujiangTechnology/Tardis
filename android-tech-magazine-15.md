@@ -10,7 +10,7 @@ author: YYDroid
 
 ### AwesomeSource
 
-* [Python版母亲节](http://blog.onlinecache.cn/2016/05/08/Mother-s-Day/) Python代码写起来文字来，还确实挺合适。两个字：人性
+* [Python版母亲节](http://blog.onlinecache.cn/2016/05/08/Mother-s-Day/) 用Python写起中国的文字来，还挺合适，总结两个字：人性
 
 ### BestArticle
 
