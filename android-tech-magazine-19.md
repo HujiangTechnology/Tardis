@@ -4,9 +4,10 @@ date: 2016-06-05
 tags: Android 周刊
 author: LiQilin
 ---
+本期重点关注CodeTyphon跨平台神技。
 
 ### AwesomeSource
-* [使用CodeTyphon实现库文件跨越Android和iOS平台](https://mp.weixin.qq.com/s?__biz=MzIwNTIzMjIxMQ==&mid=2651425998&idx=1&sn=f81f50e91da8231172f52768c3fea38f&scene=1&srcid=06025uf8K5U2ZkcHAdJNDB0D&pass_ticket=VlvaS2unWab6Y0AZ%2Fc%2B0I02%2F94%2B5G9ul%2Bz5tzE51IZD8cgS2%2FfIyRSIrDVbwissU#rd) 何老师的CodeTyphone跨平台神技，各位同学还不快快来观摩学习，学会CodeTyphone，iOS开发离你还远吗？
+* [使用CodeTyphon实现库文件跨越Android和iOS平台](https://mp.weixin.qq.com/s?__biz=MzIwNTIzMjIxMQ==&mid=2651425998&idx=1&sn=f81f50e91da8231172f52768c3fea38f&scene=1&srcid=06025uf8K5U2ZkcHAdJNDB0D&pass_ticket=VlvaS2unWab6Y0AZ%2Fc%2B0I02%2F94%2B5G9ul%2Bz5tzE51IZD8cgS2%2FfIyRSIrDVbwissU#rd) 何老师的CodeTyphon跨平台神技，各位同学还不快快来观摩学习，学会CodeTyphon，iOS开发离你还远吗？
 
 ### BestArticle
 
