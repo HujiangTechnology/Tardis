@@ -17,7 +17,7 @@ author: kymjs
 - [Google IO 2016 Android演讲汇总](http://chinagdg.org/2016/05/google-io-2016-android/)  后悔错过了今年的 Google IO 直播吗？没关系，你想要的这里都有。  
 - [基于Android Studio的内存泄漏检测与解决全攻略](http://wetest.qq.com/lab/view/?id=99&from=ads_test2_qqtips&sessionUserType=BFT.PARAMS.192844.TASKID&ADUIN=252437734&ADSESSION=1466387252&ADTAG=CLIENT.QQ.5413_.0&ADPUBNO=26485)  
 其实Android Studio已经开始支持自动进行内存泄漏检查了，赶紧来试试吧。  
-- [微信Android热补丁实践演进之路](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286306&idx=1&sn=d6b2865e033a99de60b2d4314c6e0a25&scene=1&srcid=0624H8NfsJHRCjaeE29ZbcuG&key=77421cf58af4a6537453d54ea94eeb103a088380657a2c06dc17e2fb97ade0d0bfb626f610dff02165b31f97f32a40a9&ascene=0&uin=MTc1Mjk3MDY0Mg%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.5+build(15F34)&version=11020201&pass_ticket=qy1PZz90d8N%2B59qLF%2BwQu8faUiA%2Bn%2BPTSBn%2FmSJlIqPdUkwDGn%2F5KX7yY%2Fd95RGQ) 微信的热补丁实现原理，只是我怎么感觉还不如Qzone的那套好呢，你们觉得呢？   
+- [微信Android热补丁实践演进之路](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286306&idx=1&sn=d6b2865e033a99de60b2d4314c6e0a25&scene=1&srcid=0624H8NfsJHRCjaeE29ZbcuG&key=77421cf58af4a6537453d54ea94eeb103a088380657a2c06dc17e2fb97ade0d0bfb626f610dff02165b31f97f32a40a9&ascene=0&uin=MTc1Mjk3MDY0Mg%3D%3D) 微信的热补丁实现原理，只是我怎么感觉还不如Qzone的那套好呢，你们觉得呢？   
 
 ## DevTools
 - [Android Studio 2.2 Preview 4](https://sites.google.com/a/android.com/tools/download/studio/builds/2-2-preview-4) 版本已经发布了，尽管嘴上一直喊着再也不相信PV版本了，但是身体还是很诚实的下载了它。  
