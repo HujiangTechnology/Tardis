@@ -27,6 +27,8 @@ author: firefly
 
 * [谷歌有多拼？它想让2.5万名工程师成为机器学习专家](http://m.huxiu.com/article/154850/1.html) 当大家都在想怎么做更好的app时，Google 打算让人工智能接管它所有的业务和产品了。
 * [百度刘超](http://mp.weixin.qq.com/s?__biz=MjM5MDQ4MzU5NQ==&mid=2658947169&idx=2&sn=066d458f2aa06f188677748acde297eb&scene=23&srcid=0707WSCezrNvE8FuB2FdJw30#rd) 找找你身边有多少刘超？同时我们也知道了一个道理：做事之前先学会做ppt，做人之前先学会做ppt。
+* [惊呆：中国手游中不准出现英文字母](http://mp.weixin.qq.com/s?__biz=MzIzMDQ3NTI2Mw==&mid=2247483661&idx=3&sn=ef4a79c725a7c5cd74c0a21478632f67&scene=23&srcid=0708tJBVJvDpW18DlL2ekJ1j#rd) 这是什么游戏规则？
+* [百度地图为什么会在后台偷偷下载单田芳和郭德纲](https://www.zhihu.com/question/48248618?from=timeline&isappinstalled=0#showWechatShareTip) 本周百度的头条过于多了，不想多说什么。
 
 
 
