@@ -1,4 +1,9 @@
-本期重点视乎是NPE。
+---
+title: Android技术周刊第24期
+date: 2016-07-16
+tags: Android 周刊
+author: david
+---
 
 BestArticle
 
