@@ -22,7 +22,7 @@ author: Conquer
 ### BestArticle
 
 - [Tinker_imitator 原理篇](http://www.jianshu.com/p/620c2b0490ec?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)，之前微信分享过他们的热补丁实现原理，现在Dim模仿原理实现了它，一起来看看吧
-- [面向切面编程之疯狂的 Aspects](https://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652154714&idx=1&sn=da44e8ec13bf4ef445e3270e4e80a3e3&scene=1&srcid=0722gcvmYvIDt066zQ8rxBcJ&key=77421cf58af4a6531f89446f4132dd04df83818b1710a84ade064c5b772e230ac57d196cfb51bc12605e95879e68df3f&ascene=0&uin=MjkxNzIxMDMwMA%3D%3D&devicetype=iMac+MacBookPro9%2C2+OSX+OSX+10.11.1+build(15B42)&version=11020201&pass_ticket=Fa25HkL%2BST0gekuLxX2fMfXSzPXn4cW0kNlo3PX5JFh%2BOkozdvr4zt78jnGNa%2BlC)，`AOP`还是很有用的，我们已经有了自己的`Aspect`方案：`AspectJ`.
+- [面向切面编程之疯狂的 Aspects](https://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=2652154714&idx=1&sn=da44e8ec13bf4ef445e3270e4e80a3e3&scene=1&srcid=0722gcvmYvIDt066zQ8rxBcJ&key=77421cf58af4a6531f89446f4132dd04df83818b1710a84ade064c5b772e230ac57d196cfb51bc12605e95879e68df3f&ascene=0&uin=MjkxNzIxMDMwMA%3D%3D)，`AOP`还是很有用的，我们已经有了自己的`Aspect`方案：`AspectJ`.
 - [代码审查要点](http://www.techug.com/code-review-3),我们也一直在用`gerrit`做`code review`, 可以一起来看看这篇文章，我们有哪些可以学习的点。
 - [程序员需要把好椅子](http://kb.imakewebsites.ca/2014/04/27/chairs-for-programmers/)，为了健康，大家还是关注下吧……
 
