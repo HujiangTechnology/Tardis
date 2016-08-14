@@ -4,7 +4,8 @@ date: 2016-08-14
 tags: Android 周刊
 author: YYDroid
 ---
-有的时候，周刊只要一篇就够了！
+有的时候，周刊只要一篇就够了！  
+那么，你想知道这一篇质量能顶的上过去一周的文章是来自哪位大神之笔吗，当然就是我们的 George 老师：何晓杰  
 
 <!-- more -->
 
@@ -54,7 +55,8 @@ $ ${BINUTIL_HOME}/arm-linux-androideabi-objdump -DS libsample.so
 好了，往下稍微翻一下，就能找到我们定义的版本号了，此处是：
 
 ```
-00015004 <jniVersionCode>:   15004:  000000f1  andeq  r0, r0, r0, ror #1
+00015004 <jniVersionCode>:
+   15004:  000000f1  andeq  r0, r0, r0, ror #1
 ```
 
 此处的```000000f1 ```转换成 10 进制就是我们要的版本号了，至此分析完毕。
@@ -64,7 +66,70 @@ $ ${BINUTIL_HOME}/arm-linux-androideabi-objdump -DS libsample.so
 既然已经通过分析得到了想要的结果，那么解决问题就变得无比简单了，请出 CodeTyphon 写一段小程序搞定之，废话不多直接上代码：
 
 ```
-program sover;{$mode objfpc}{$H+}uses {$IFNDEF WINDOWS}cthreads,{$ENDIF} Classes, sysutils, process;procedure writeRequireBinutilHome; begin  WriteLn('Environment BINUTIL_HOME must be set!');end;procedure writeHelp; begin  WriteLn('usage: sover <so path>');end;function dumpVersionCode(bin: string; soPath: string): Integer;const  DATA_NAME = '<jniVersionCode>';var  execRet: Boolean;  outStr, valStr: string;  i, p: Integer;begin  Result := 0;  execRet:= RunCommand(bin, ['-DS', soPath], outStr, [poWaitOnExit, poUsePipes]);  if execRet then begin    with TStringList.Create do begin      Text:= outStr;      for i:= 0 to Count - 1 do begin        if Strings[i].Contains(DATA_NAME) then begin          valStr:= Strings[i + 1];          Break;        end;      end;      Free;    end;    p := Pos(':', valStr);    valStr:= Trim(Copy(valStr, p + 1, Length(valStr) - p));    valStr:= LeftStr(valStr, 8);    Result := StrToInt('$' + valStr);  end;end;var  binutilHome: string;  binDump: string;  verCode: Integer;begin  binutilHome:= GetEnvironmentVariable('BINUTIL_HOME');  if binutilHome = '' then begin    writeRequireBinutilHome;    Exit;  end;  if (ParamCount <> 1) or (not FileExists(ParamStr(1))) then begin    writeHelp;    Exit;  end;  if not binutilHome.EndsWith('/') then begin    binutilHome += '/';  end;  binDump:= binutilHome + 'arm-linux-androideabi-objdump';  if not FileExists(binDump) then begin    binDump:= binutilHome + 'arm-linux-gnueabihf-objdump';  end;  verCode:= dumpVersionCode(binDump, ParamStr(1));  WriteLn(verCode);end.
+program sover;
+{$mode objfpc}{$H+}
+uses {$IFNDEF WINDOWS}cthreads,{$ENDIF} Classes, sysutils, process;
+
+procedure writeRequireBinutilHome; begin
+  WriteLn('Environment BINUTIL_HOME must be set!');
+end;
+
+procedure writeHelp; begin
+  WriteLn('usage: sover <so path>');
+end;
+
+function dumpVersionCode(bin: string; soPath: string): Integer;
+const
+  DATA_NAME = '<jniVersionCode>';
+var
+  execRet: Boolean;
+  outStr, valStr: string;
+  i, p: Integer;
+begin
+  Result := 0;
+  execRet:= RunCommand(bin, ['-DS', soPath], outStr, [poWaitOnExit, poUsePipes]);
+  if execRet then begin
+    with TStringList.Create do begin
+      Text:= outStr;
+      for i:= 0 to Count - 1 do begin
+        if Strings[i].Contains(DATA_NAME) then begin
+          valStr:= Strings[i + 1];
+          Break;
+        end;
+      end;
+      Free;
+    end;
+    p := Pos(':', valStr);
+    valStr:= Trim(Copy(valStr, p + 1, Length(valStr) - p));
+    valStr:= LeftStr(valStr, 8);
+    Result := StrToInt('$' + valStr);
+  end;
+end;
+
+var
+  binutilHome: string;
+  binDump: string;
+  verCode: Integer;
+begin
+  binutilHome:= GetEnvironmentVariable('BINUTIL_HOME');
+  if binutilHome = '' then begin
+    writeRequireBinutilHome;
+    Exit;
+  end;
+  if (ParamCount <> 1) or (not FileExists(ParamStr(1))) then begin
+    writeHelp;
+    Exit;
+  end;
+  if not binutilHome.EndsWith('/') then begin
+    binutilHome += '/';
+  end;
+  binDump:= binutilHome + 'arm-linux-androideabi-objdump';
+  if not FileExists(binDump) then begin
+    binDump:= binutilHome + 'arm-linux-gnueabihf-objdump';
+  end;
+  verCode:= dumpVersionCode(binDump, ParamStr(1));
+  WriteLn(verCode);
+end.
 ```
 
 随便编译一下就成了，接着就可以欢乐的玩耍啦，命令很简单：
